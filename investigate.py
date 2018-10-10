@@ -47,7 +47,7 @@ class re_builder():
             self.__re = temp
 
         except:
-            print("There was a problem building the regular expression",self.default_error)
+            print("There was a problem building the regular expression",self.__default_error)
 
     # get results of regular expression
     def process_re(self, case_sens = 'n'):
