@@ -29,7 +29,7 @@ class re_builder():
             self.__words = open(self.word_list_file, 'r').read().split()
             # print(self.words) # debug line
         except:
-            print("There was a problem loading the word list file",self.default_error)
+            print("There was a problem loading the word list file",self.__default_error)
 
     # build regular expression
     def build_word_search_re(self, case_sensitive = 'y'):
