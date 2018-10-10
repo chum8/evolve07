@@ -1,0 +1,11 @@
+campbellsvil.edu,443,Error! Check port number or domain.
+bu.edu,443,Unable to reach destination
+umfk.maine.edu,443,Open
+tnstate.edu,443,Error! Check port number or domain.
+jcsu.edu,443,Open
+bju.edu,443,Open
+malone.edu,443,Open
+fit.edu,443,Open
+albany.edu,443,Open
+berkeley.edu,443,Open
+coker.edu,443,Open
